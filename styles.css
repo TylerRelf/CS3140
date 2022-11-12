@@ -1,0 +1,19 @@
+#buttons {
+	margin-top: 4%;
+	margin-left: 33.595%;
+	margin-bottom: 8px;
+}
+
+#buttons button {
+	font-size: 25.5px;
+	display: inline-block;
+	height: 54px;
+}
+
+#box {
+	margin-left: 33.263%;
+	width: 500px;
+	height: 500px;
+	border: 3.2px solid black;
+}
+
